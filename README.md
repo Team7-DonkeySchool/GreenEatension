@@ -1,5 +1,5 @@
-# GreenEatension
-Extension for GreenEat
+# Extension for GreenEat
+
 <p align="center">
   <img src="/icons/icon128.png" width="128" height="128"/>
 </p>
