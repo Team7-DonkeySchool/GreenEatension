@@ -1,0 +1,34 @@
+{
+"manifest_version": 3,
+"name": "GreenEatension",
+"version": "1.0.0",
+"description": "teste",
+"permissions": [
+    "activeTab",
+    "scripting",
+    "contextMenus",
+    "https://www.google.com/"
+  ],
+  "background": {
+    "service_worker": "greentension.js"
+},
+"host_permissions": [
+    "<all_urls>"
+],
+"action": {
+    "default_popup": "popup.html",
+    "default_title": "GreenEatension"
+  },
+"content_scripts": [{
+"matches": ["<all_urls>"],
+"all_frames": true,
+"js": ["greentension.js"]
+}],
+"browser_action": {
+    "default_title": "Envoyer du texte sur un autre site",
+    "contexts": ["selection"]
+  }
+  
+
+
+}
