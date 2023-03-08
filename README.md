@@ -21,7 +21,7 @@ hmmm
 
 **Demo**
 <p align="center">
-  <img src="/icons/demo.gif"/>
+  <img src="/icons/demo.gif" width="500" height="500"/>
 </p>
 
 
