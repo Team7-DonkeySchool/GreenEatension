@@ -18,7 +18,16 @@
 **Mozilla Firefox**
 hmmm
 
+
+**Demo**
+<p align="center">
+  <img src="/icons/demo.gif" width="128" height="128"/>
+</p>
+
+
 **Notes**
-Pour l'instant j'ai rien fais du coté du site.
+Ce n’est pas parfait mais ça permet d'aller plus vite en termes de simplicité d'utilisation
+
+
 
 
